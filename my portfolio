@@ -1,0 +1,171 @@
+
+
+<HTML>
+<HEAD>
+ </HEAD>
+<BODY>
+<header>
+<center>
+    <h1>👤Nishant Ghimire</h1>
+<h4>A BIT Student.</h4>
+
+    <nav>
+
+<table border="0">
+<tr>
+       <td><a href="#">Home</a> |</td>
+       <td><a href="#">About</a> |</td>
+       <td><a href="#">Skills</a> |</td>
+<td><a href="#">Projects</a> |</td>
+<td><a href="#">Contact</a></td>
+
+</tr>
+</table>
+</font>
+    </nav>
+<br>
+<p>Now we will go through everything in my Portfolio in detail</p>
+<br>
+<hr><br>
+<h2>👨‍💻About me</h2>
+<img src="C:\Users\Lenovo\Downloads\my image .jpeg" alt="My Photo" width="180">
+<p>
+                I am a Computer Science student with a strong interest in software<br>
+                development, web technologies, and problem solving.I enjoy learning<br>
+                new skills and participating in leadership activities.<br> My goal is to become a skilled software engineer.
+            </p><br>
+<hr><br>
+<section> 
+
+    <h2>🎓 Education</h2>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Level</th>
+            <th>Institution</th>
+            <th>Duration</th>
+        </tr>
+
+        <tr>
+            <td>Bachelor of Information Technology (BIT)</td>
+            <td>Model Institute of Technology (MIT)</td>
+            <td>2024 – Present</td>
+        </tr>
+
+        <tr>
+            <td>Higher Secondary Education (+2)</td>
+            <td>Everest Florida High School</td>
+            <td>2022 – 2024</td>
+        </tr>
+
+        <tr>
+            <td>Secondary Education (SEE)</td>
+            <td>Bal Shiksha Sadan</td>
+            <td>Passed in 2022</td>
+        </tr>
+
+    </table>
+
+<section><br><br>
+
+    <hr><br>
+
+    <h2>🛠 Skills</h2>
+
+    <ul>
+
+        <li><strong>HTML:</strong> Building simple static webpages using HTML5.</li>
+
+        <li><strong>Basic Web Design:</strong> Creating clean and well-structured webpage layouts.</li>
+
+        <li><strong>C++:</strong> Developing basic console-based programs.</li>
+
+        <li><strong>Communication:</strong> Working effectively with individuals and teams.</li>
+
+        <li><strong>Leadership:</strong> Organizing activities and taking initiative in group work.</li>
+
+    </ul>
+<br>
+<hr><br>
+</section><h2>💼Projects</h2><br>
+<section>
+
+    <article>
+
+        <h3>Personal Portfolio Website</h3>
+
+        <p>
+            Developed a simple personal portfolio website using semantic HTML5.<br>
+            The webpage includes sections such as About Me, Education, Skills,<br>
+            Projects and Contact. This project helped me understand the basic<br>
+            structure of an HTML webpage.
+        </p>
+
+        <p>
+            <a href="https://github.com/NishantGhimire18/html_project_01">
+                View Repository
+            </a>
+        </p>
+
+    </article>
+
+    <article>
+<br>
+        <h3>Student Portfolio Webpage</h3>
+
+        <p>
+
+            Created a static webpage to practice HTML elements like headings,<br>
+            tables, images, hyperlinks, forms and semantic tags. The project<br>
+            was mainly focused on learning how to organize content in a proper<br>
+            webpage layout.
+
+        </p>
+
+        <p>
+            <a href="https://github.com/NishantGhimire18/html_project_01">
+                View Repository
+            </a>
+        </p>
+
+    </article><br>
+<hr>
+<br>
+<h2>Contact</h2>
+<form>
+
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name"><br><br>
+
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email"><br><br>
+
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message" rows="5" cols="30"></textarea><br><br>
+
+    <input type="submit" value="Submit">
+
+</form> <br>
+
+<footer>
+<hr>
+   
+    <p> <strong>Thank you for visiting my portfolio!</strong></p>
+
+    <p> <strong>Nishant Ghimire</strong></p>
+
+    <p>📧 Email: ghimirenishant37@gmail.com</p>
+<p>📞Phone number: 9814706876
+
+    <p>📍 Location: Kathmandu, Nepal</p>
+
+    <p>© 2026 Nishant Ghimire. All Rights Reserved.</p>
+
+</footer>
+</center>
+</section>
+</table>
+</header>
+</BODY>
+</HTML>
